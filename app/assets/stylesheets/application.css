@@ -12,6 +12,8 @@
  *
  *= require_tree .
  *= require_self
+ */
+ 
  /**
  * Copyright 2015 Google Inc. All Rights Reserved.
  *
@@ -219,4 +221,4 @@ html, body {
 }
 .mdl-demo .mdl-menu__container {
   z-index: 99;
-}*/
+}
