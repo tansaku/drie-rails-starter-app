@@ -1,2 +1,6 @@
 environment:
 - RAILS_ENV=production
+- refs/heads/master:
+  - !secret 'gAAAAABZwlbLRh7C6iYGbas74Y2UqtooBKOii7IYJDz90r7rzFD52XWEGEj9jiTbG32wYs14Hk-A0mr2JrG-GyinJj4IeMGkmsg4vcAzDhs82UlrnAvK-8ch4_oPK__NlDlWdLmRb8Wh4yBVEAFHjsO4kf9B1NWGgatxxWlpqEQeqcC52a5lFOObPSx2H_ISxhmTC9X4NLGlwOedgaqXVwx_F2tilZWk7Q=='
+installation_id: '34609'
+repo_id: '104206813'
